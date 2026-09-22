@@ -3,7 +3,6 @@ import gsap from "gsap";
 import HeroCanvas from "../components/HeroCanvas";
 import {
   Button,
-  Rating,
   Socials,
   usePageMotion,
   Count,
@@ -64,6 +63,7 @@ export function Hero() {
   return (
     <section className="hero" ref={ref}>
       <HeroCanvas />
+      <div className="hero-overlay" aria-hidden="true" />
       <div className="noise" aria-hidden="true" />
       <div className="hero-grid-lines" aria-hidden="true">
         <i />
@@ -92,8 +92,8 @@ export function Hero() {
           <span className="crosshair top-right" />
           <span className="crosshair bottom-left" />
           <span className="crosshair bottom-right" />
-          <h1 className="hero-name" aria-label="Neiden">
-            {"ñeiden".split("").map((letter, i) => (
+          <h1 className="hero-name" aria-label="kishor">
+            {"kishor".split("").map((letter, i) => (
               <span className="hero-letter" aria-hidden="true" key={i}>
                 {letter}
               </span>
@@ -104,32 +104,16 @@ export function Hero() {
         <div className="hero-bottom-content">
           <div className="hero-description hero-enter">
             <p>
-              We help brands make better decisions, build stronger products,
-              <br className="desktop-break" /> and move forward with confidence.
+              I help brands make smarter marketing decisions, optimize performance,
+              <br className="desktop-break" /> and turn every campaign into an opportunity for growth.
             </p>
             <Button to="/contacts">Start a project</Button>
-          </div>
-          <div className="hero-review hero-enter">
-            <Rating />
           </div>
         </div>
       </div>
       <div className="hero-footer hero-enter">
         <div className="hero-socials">
           <Socials />
-          <span>
-            Stay
-            <br />
-            connected
-          </span>
-        </div>
-        <div className="partner-logos">
-          <span className="partner-lightspeed">lightspeed</span>
-          <span>▰ Peregrin</span>
-          <span className="partner-quantum">◔ Quantum²</span>
-          <span>▱ Stacked Lab</span>
-          <span>♧ 3Portals</span>
-          <span>◆ AlphaWave</span>
         </div>
       </div>
     </section>
