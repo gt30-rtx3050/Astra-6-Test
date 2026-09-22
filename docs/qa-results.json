@@ -1,0 +1,446 @@
+{
+  "routeChecks": [
+    {
+      "route": "/",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "\u00f1eiden",
+      "links": 70
+    },
+    {
+      "route": "/about-us",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "About \u00f1eiden\u00ae ",
+      "links": 45
+    },
+    {
+      "route": "/projects",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Recent Projects ",
+      "links": 53
+    },
+    {
+      "route": "/projects/featured-1",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Identity Through Visual Contrast ",
+      "links": 45
+    },
+    {
+      "route": "/projects/featured-2",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Digital Products Through Interaction ",
+      "links": 45
+    },
+    {
+      "route": "/projects/featured-3",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Brand Systems for Modern Audiences ",
+      "links": 45
+    },
+    {
+      "route": "/projects/featured-4",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Visual Languages for Growing Brands ",
+      "links": 45
+    },
+    {
+      "route": "/projects/landing-page-for-an-online-course-copy",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Clearer Interfaces for Everyday Use ",
+      "links": 45
+    },
+    {
+      "route": "/projects/corporate-website-for-an-it-company",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Building Better Digital Experiences ",
+      "links": 45
+    },
+    {
+      "route": "/projects/data-driven-ux-decisions",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Brands Built Through Consistency ",
+      "links": 45
+    },
+    {
+      "route": "/projects/strategic-thinking-and-brand-foundations-for-dribbble",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Exploring New Digital Interactions ",
+      "links": 45
+    },
+    {
+      "route": "/projects/creating-a-scalable-system-for-growth",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Shaping Brands Through Design ",
+      "links": 45
+    },
+    {
+      "route": "/blog",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Blog Insights ",
+      "links": 52
+    },
+    {
+      "route": "/blog/web-accessibility-why-it-s-non-negotiable-copy",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Why UI/UX Design Is the Foundation of Every Successful Digital Product ",
+      "links": 50
+    },
+    {
+      "route": "/blog/headless-cms-explained-pros-cons-use-cases-copy",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "How Motion Design Can Make Digital Experiences Feel More Natural ",
+      "links": 50
+    },
+    {
+      "route": "/blog/responsive-design-importance-2025",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Why Strong Visual Identity Matters More in an Increasingly Digital World ",
+      "links": 50
+    },
+    {
+      "route": "/blog/choosing-tech-stack-web-app",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "How Better UX Design Can Turn More Visitors Into Loyal Customers ",
+      "links": 50
+    },
+    {
+      "route": "/blog/website-performance-optimization-tools",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Why Every Successful Website Starts With a Clear Content Strategy ",
+      "links": 50
+    },
+    {
+      "route": "/blog/web-accessibility-best-practices",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "How Design Systems Help Teams Build Better Digital Products at Scale ",
+      "links": 50
+    },
+    {
+      "route": "/blog/headless-cms-explained",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Why Simplicity Remains One of the Hardest Things to Achieve in Design ",
+      "links": 50
+    },
+    {
+      "route": "/contacts",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Start With A Conversation ",
+      "links": 44
+    },
+    {
+      "route": "/career",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Careers at Neiden ",
+      "links": 48
+    },
+    {
+      "route": "/privacy",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Privacy policy ",
+      "links": 61
+    },
+    {
+      "route": "/terms-of-services",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Terms of services ",
+      "links": 61
+    },
+    {
+      "route": "/thank-you",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Neiden Is Ready ",
+      "links": 46
+    },
+    {
+      "route": "/404",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Page not found ",
+      "links": 44
+    },
+    {
+      "route": "/not-found",
+      "width": 1440,
+      "scroll": 1440,
+      "h1": "Page not found ",
+      "links": 44
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "scroll": 390,
+      "h1": "\u00f1eiden",
+      "links": 70
+    },
+    {
+      "route": "/about-us",
+      "width": 390,
+      "scroll": 390,
+      "h1": "About \u00f1eiden\u00ae ",
+      "links": 45
+    },
+    {
+      "route": "/projects",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Recent Projects ",
+      "links": 53
+    },
+    {
+      "route": "/projects/featured-1",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Identity Through Visual Contrast ",
+      "links": 45
+    },
+    {
+      "route": "/projects/featured-2",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Digital Products Through Interaction ",
+      "links": 45
+    },
+    {
+      "route": "/projects/featured-3",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Brand Systems for Modern Audiences ",
+      "links": 45
+    },
+    {
+      "route": "/projects/featured-4",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Visual Languages for Growing Brands ",
+      "links": 45
+    },
+    {
+      "route": "/projects/landing-page-for-an-online-course-copy",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Clearer Interfaces for Everyday Use ",
+      "links": 45
+    },
+    {
+      "route": "/projects/corporate-website-for-an-it-company",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Building Better Digital Experiences ",
+      "links": 45
+    },
+    {
+      "route": "/projects/data-driven-ux-decisions",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Brands Built Through Consistency ",
+      "links": 45
+    },
+    {
+      "route": "/projects/strategic-thinking-and-brand-foundations-for-dribbble",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Exploring New Digital Interactions ",
+      "links": 45
+    },
+    {
+      "route": "/projects/creating-a-scalable-system-for-growth",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Shaping Brands Through Design ",
+      "links": 45
+    },
+    {
+      "route": "/blog",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Blog Insights ",
+      "links": 52
+    },
+    {
+      "route": "/blog/web-accessibility-why-it-s-non-negotiable-copy",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Why UI/UX Design Is the Foundation of Every Successful Digital Product ",
+      "links": 50
+    },
+    {
+      "route": "/blog/headless-cms-explained-pros-cons-use-cases-copy",
+      "width": 390,
+      "scroll": 390,
+      "h1": "How Motion Design Can Make Digital Experiences Feel More Natural ",
+      "links": 50
+    },
+    {
+      "route": "/blog/responsive-design-importance-2025",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Why Strong Visual Identity Matters More in an Increasingly Digital World ",
+      "links": 50
+    },
+    {
+      "route": "/blog/choosing-tech-stack-web-app",
+      "width": 390,
+      "scroll": 390,
+      "h1": "How Better UX Design Can Turn More Visitors Into Loyal Customers ",
+      "links": 50
+    },
+    {
+      "route": "/blog/website-performance-optimization-tools",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Why Every Successful Website Starts With a Clear Content Strategy ",
+      "links": 50
+    },
+    {
+      "route": "/blog/web-accessibility-best-practices",
+      "width": 390,
+      "scroll": 390,
+      "h1": "How Design Systems Help Teams Build Better Digital Products at Scale ",
+      "links": 50
+    },
+    {
+      "route": "/blog/headless-cms-explained",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Why Simplicity Remains One of the Hardest Things to Achieve in Design ",
+      "links": 50
+    },
+    {
+      "route": "/contacts",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Start With A Conversation ",
+      "links": 44
+    },
+    {
+      "route": "/career",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Careers at Neiden ",
+      "links": 48
+    },
+    {
+      "route": "/privacy",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Privacy policy ",
+      "links": 61
+    },
+    {
+      "route": "/terms-of-services",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Terms of services ",
+      "links": 61
+    },
+    {
+      "route": "/thank-you",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Neiden Is Ready ",
+      "links": 46
+    },
+    {
+      "route": "/404",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Page not found ",
+      "links": 44
+    },
+    {
+      "route": "/not-found",
+      "width": 390,
+      "scroll": 390,
+      "h1": "Page not found ",
+      "links": 44
+    },
+    {
+      "route": "/",
+      "width": 360,
+      "scroll": 360
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "scroll": 768
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "scroll": 1024
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "scroll": 1280
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "scroll": 1440
+    }
+  ],
+  "applicationErrors": [],
+  "externalRequestFailures": {
+    "count": 53,
+    "reason": "Sandbox CDN connection errors; original external URLs remain in source."
+  },
+  "motion": {
+    "hero": "completed to identity transform",
+    "scrollHeading": "completed",
+    "menu": "animated open and close passed",
+    "errors": []
+  },
+  "fonts": {
+    "sans": true,
+    "script": true
+  },
+  "interactions": "filters, menu, escape, menu routing, FAQ, monthly/annual pricing, slideshow play/pause/next, validation/local-only form response, newsletter local-only response passed",
+  "production": {
+    "routes": [
+      "/",
+      "/projects",
+      "/projects/featured-1",
+      "/blog/responsive-design-importance-2025",
+      "/contacts",
+      "/privacy",
+      "/404"
+    ],
+    "fonts": [
+      true,
+      true,
+      true
+    ],
+    "errors": [],
+    "mobileFeatureGrid": {
+      "width": 350,
+      "scroll": 350
+    },
+    "hero": "Completed",
+    "menu": "Passed"
+  }
+}
